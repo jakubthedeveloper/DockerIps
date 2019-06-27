@@ -1,16 +1,16 @@
 # DockerIps
-Skrypt w python3, który wyświetla adresy ip aktywnych kontenerów dockera
+Python 3 script that displays the ip addresses of the active docker containers.
 
-**Użycie:**
+**Usage:**
 
 ```
 ./docker_ips.py 
 ```
-lub
+or
 ```
 python3 docker_ips.py
 ```
-**Wynik:**
+**Result:**
 
 ```
 abc_nginx 172.21.0.4
