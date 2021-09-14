@@ -19,6 +19,7 @@ python3
 
 ```
 git clone https://github.com/jakubthedeveloper/DockerIps.git
+cd DockerIps
 python3 docker_ips.py
 ```
 
